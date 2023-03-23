@@ -1,0 +1,2 @@
+Data to be written in the file
+Data to be read by the file
